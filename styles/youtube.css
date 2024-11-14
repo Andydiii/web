@@ -1,0 +1,77 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: roboto, Arial;
+}
+
+.search-bar {
+  display: block;
+}
+
+.video-preview {
+  width: 300px;
+  display: inline-block;  
+  vertical-align: top;
+  margin-right: 15px;
+}
+
+.videopic_class {
+  margin-bottom: 5px;
+  width: 300px;
+}
+
+.profile1 {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+
+.profilepic1 {
+  width: 80%;
+  border-radius: 100px;
+}
+
+.infos {
+  display: inline-block;
+  width: 200px;
+}
+
+.p11 {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  margin-bottom: 10px;
+}
+
+.p12, .p13{
+  color: grey;
+  font-size: 12px;
+  margin-bottom: 3px;
+}
+
+.profilepic2_div {
+  display: inline-block;
+  vertical-align: top;
+  width: 50px;
+}
+
+.profilepic2 {
+  border-radius: 100px; 
+  width: 80%;
+}
+
+.info2 {
+  display: inline-block;
+}
+
+.title {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.author,.description {
+  font-size: 12px;
+  margin-bottom: 5px;
+  color: grey;
+}
